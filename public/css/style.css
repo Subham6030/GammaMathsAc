@@ -1,0 +1,126 @@
+#userbanner h2{
+    text-align: center;
+}
+#userbanner p{
+    text-align: justify;
+}
+#userbanner{
+    padding: 30px 0px;
+}
+
+#header {
+    background: linear-gradient(to right, rgb(255, 191, 0), rgb(177, 156, 41), rgb(136, 100, 5));
+}
+
+#header ul li a {
+    color: white;
+    font-family: 'Prompt', sans-serif;
+}
+
+#header img {
+    width: 60px;
+    box-shadow: 10px 10px black;
+}
+
+#header .bi-list {
+    color: white;
+}
+
+#banner{
+  background: linear-gradient(to right, rgb(255, 191, 0), rgb(177, 156, 41), rgb(136, 100, 5));
+  padding-top:50px;
+}
+#banner #banner-img{
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-bottom: 50px;
+    width: 400px;
+}
+#banner p{
+    color: white;
+    text-align: justify;
+}
+#banner h4{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+#banner img{
+    width: 100%;
+    
+}
+#banner-img{
+    width: 200px;
+}
+#banner a{
+    text-decoration: none;
+    color: white;
+}
+
+#services h2{
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+#services img{
+    width: 100px;
+}
+#services p{
+    text-align: justify;
+}
+#services{
+    padding: 35px 0px;
+}
+#testi img{
+    width: 100px;
+    border-radius: 50%;
+}
+#testi h2{
+    
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+#testi p{
+    
+    text-align: justify;
+}
+
+
+
+#footer #footer-border{
+    width: 100%;
+}
+#footer {
+    background: linear-gradient(to right, rgb(255, 191, 0), rgb(177, 156, 41), rgb(136, 100, 5))
+}
+
+#footer h4 {
+    color:aqua;
+    font-family: 'Pacifico', cursive;
+
+}
+
+#footer p {
+    text-align: justify;
+    color: white;
+    font-size: 20px;
+}
+
+#footer table tr {
+    color: aliceblue;
+    font-size: 20px;
+    display: flex;
+}
+
+#footer span {
+    font-size: 15px;
+    text-align: justify;
+}
+
+#footer img {
+    width: 200px;
+}
+
+#links img{
+    width: 100px;
+}
+
